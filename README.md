@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hajimaru-tech-droid
 - 👀 I’m interested in new technologies.
-- 🌱 I’m currently learning Data Science and Machine learning.
+- 🌱 I’m currently focusing on Java and quantum computing.
 - 💞️ I’m looking to collaborate on building models.
 - 📫 # How to reach me ...
 
